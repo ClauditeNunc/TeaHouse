@@ -1,0 +1,31 @@
+.scrollbar::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  .scrollbar::-webkit-scrollbar-track {
+    background-color: #262c30;
+    border-radius: 50px;
+    border-width: 0px;
+  }
+  
+  .scrollbar::-webkit-scrollbar-thumb {
+    background-color: #88b44e; 
+    border-radius: 6px; 
+  }
+  
+  .scrollbar::-webkit-scrollbar-thumb:hover {
+    background-color: white; 
+  }
+
+  @keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+  
+  .cart-slide-enter {
+    animation: slideInFromLeft 1s ease forwards;
+  }

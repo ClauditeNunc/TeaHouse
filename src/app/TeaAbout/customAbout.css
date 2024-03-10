@@ -1,0 +1,28 @@
+.animate-fade-in-fastest {
+    animation: fade-in 1s ease-out forwards;
+  }
+  
+  .animate-fade-in-fast {
+    animation: fade-in 1s ease-out forwards;
+    animation-delay: 0.5s;
+  }
+  
+  .animate-fade-in-slow {
+    animation: fade-in 1s ease-out forwards;
+    animation-delay: 0.8s;
+  }
+  
+  .animate-fade-in-simultaneous {
+    animation: fade-in 1s ease-out forwards;
+    animation-delay: 1s;
+  }
+
+
+@keyframes fade-in {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 100;
+    }
+  }

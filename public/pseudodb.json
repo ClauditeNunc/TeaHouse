@@ -1,0 +1,72 @@
+[
+    {
+      "id":"1",
+      "chosenImage": "./img/store-product-1.jpg",
+      "name": "Natural Close Tea",
+      "description": "Experience the pure essence of nature with our Natural Close Tea. Handpicked and carefully processed to preserve its freshness and aroma.",
+      "price": 9.99,
+      "type":"Organic Tea"
+    },
+    {
+      "id":"2",
+      "chosenImage": "./img/store-product-2.jpg",
+      "name": "Green Tea Luisi",
+      "description": "Indulge in the refreshing taste of our Green Tea Luisi. Sourced from the finest tea gardens, it offers a delicate balance of flavor and health benefits.",
+      "price": 12.99,
+      "type":"Green Tea"
+    },
+    {
+      "id":"3",
+      "chosenImage": "./img/store-product-3.jpg",
+      "name": "Instant Tea Premix",
+      "description": "Enjoy the convenience without compromising on taste with our Instant Tea Premix. Simply add water and savor the rich flavor anytime, anywhere.",
+      "price": 8.49,
+      "type":"Spiced Tea"
+    },
+    {
+      "id":"4",
+      "chosenImage": "./img/store-product-1.jpg",
+      "name": "Mountain Mist Tea",
+      "description": "Embark on a journey to the misty mountains with our Mountain Mist Tea. Each sip transports you to the serene beauty of nature.",
+      "price": 10.99,
+      "type":"Spiced Tea"
+    },
+    {
+      "id":"5",
+      "chosenImage": "./img/store-product-2.jpg",
+      "name": "Jasmine Blossom Tea",
+      "description": "Immerse yourself in the enchanting aroma of our Jasmine Blossom Tea. Delicately scented and exquisitely flavorful, it's a true sensory delight.",
+      "price": 11.49,
+      "type":"Black Tea"
+    },
+    { "id":"6",
+      "chosenImage": "./img/store-product-3.jpg",
+      "name": "Earl Grey Elegance",
+      "description": "Experience the timeless sophistication of our Earl Grey Elegance. A classic blend of black tea and bergamot, it's the epitome of refined taste.",
+      "price": 13.99,
+      "type":"Black Tea"
+    },
+    {
+      "id":"7",
+      "chosenImage": "./img/store-product-1.jpg",
+      "name": "Chamomile Dream",
+      "description": "Unwind and relax with our Chamomile Dream. Calming and soothing, it's the perfect companion for a peaceful night's sleep.",
+      "price": 9.49,
+      "type":"Organic Tea"
+    },
+    {"id":"8",
+      "chosenImage": "./img/store-product-2.jpg",
+      "name": "Rooibos Radiance",
+      "description": "Nourish your body and soul with our Rooibos Radiance. Packed with antioxidants and bursting with flavor, it's a true wellness elixir.",
+      "price": 14.99,
+      "type":"Spcied Tea"
+    },
+    {"id":"9",
+      "chosenImage": "./img/store-product-3.jpg",
+      "name": "Matcha Magic",
+      "description": "Awaken your senses with our Matcha Magic. Rich in antioxidants and vibrant in color, it's a powerhouse of health benefits in every sip.",
+      "price": 15.99,
+      "type":"Green Tea"
+    }
+  ]
+  

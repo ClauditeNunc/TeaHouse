@@ -1,0 +1,41 @@
+.products-swiper .swiper-button-prev, .products-swiper .swiper-button-next{
+    background-color: #89b54d;
+    color:white;
+    padding: 30px;
+    border-radius: 100%;
+}
+
+.products-swiper .swiper-button-next{
+    position: relative;
+    left: 43vw;
+    transition-duration: 0.3s;
+    bottom: 5px;
+}
+
+.products-swiper .swiper-button-prev{
+    position: relative;
+    left: 19vw;
+    transition-duration: 0.3s;
+    top: 34px;
+}
+
+.products-swiper .swiper-button-next:hover, .products-swiper .swiper-button-prev:hover{
+    color:#89b54d;
+    background-color: white;
+    box-shadow: 0 0 10px #89b54d;
+}
+
+.animated {
+    animation: slideUpFadeIn 1s ease-in-out;
+  }
+
+@keyframes slideUpFadeIn {
+    0% {
+      transform: translateY(100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
